@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/VariablesDisplayer/.vs/VariablesDisplayer
+/VariablesDisplayer/VariablesDisplayer/obj
+/VariablesDisplayer
+/VariablesDisplayerConsoleApp/.vs/VariablesDisplayerConsoleApp
+/VariablesDisplayerConsoleApp/VariablesDisplayerConsoleApp/bin/Debug/netcoreapp3.1
+/VariablesDisplayerConsoleApp/VariablesDisplayerConsoleApp/obj
